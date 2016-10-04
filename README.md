@@ -2,7 +2,7 @@
 Hi everyone, I'd like share in details tools and technology which I was working recently.
 Also shared some certifications obteined in 2016 as proof of skills acquired.
 
-Javascript (https://github.com/miuel/shot-share not-finished yet): 
+Javascript: 
 	•	NodeJs & NPM
 	•	ES2015 & ES2016
 	•	Express to create web server
