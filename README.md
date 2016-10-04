@@ -59,7 +59,7 @@ Html5:
 	•	Forms, inputs
 
 
-Responsive Design (http://miuel.github.io/invie)
+Responsive Design (http://miuel.github.io/invie-responsive/ use device tools on Google/Firefox inspector)
 	•	Measurement units as REM, EM
 	•	Portrait and Landscape Orientation
 	•	Mobile First
