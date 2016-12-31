@@ -38,7 +38,8 @@ BBDD:
 	•	RethinkDb
 
 Servers:
-	•	Amazon Web Server (S3 as storage)
+	•	Amazon Web Server
+	•	NodeJS
 
 Css:
 	•	Sass preprocessing Css	
